@@ -1,3 +1,5 @@
+![nice meeting you!](/assets/img/sticker_memoji.png)
+
 # Bachelor of Commerce Candidate
 
 ### Business Technology Management & Business Analytics
@@ -20,7 +22,7 @@
 
 **University of British Columbia Sauder School of Business**
 
-Bachelor of Commerce, Specialization in Business Technology Management, Concentration in Business Analytics | *Expected May 2024*
+Bachelor of Commerce, Specialization in Business Technology Management, Concentration in Business Analytics | *Expected December 2024*
 
 ---
 
