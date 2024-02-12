@@ -14,7 +14,32 @@
 
 - **Data Analysis & Visualization**: Expertise in SQL, Python/R, Tableau, and Power BI, turning complex data into actionable insights.
 - **Strategic Problem-Solving**: Adept at identifying and tackling business challenges with innovative, data-driven solutions.
-- **Cross-Functional Collaboration**: Proven ability to work effectively with diverse teams, ensuring alignment with stakeholders’ goals.
+- **Cross-functional collaboration**: Proven ability to work effectively with diverse teams, ensuring alignment with stakeholders’ goals.
+
+---
+
+## **Professional Experience**
+
+### **Independent Contractor | Freelance**
+
+*Jan 2021 - Present*
+
+- Orchestrated data-driven projects to provide bespoke solutions in data entry, customer service, and administrative support, boosting client business operations.
+- Utilized analytical expertise to refine processes, significantly cutting data processing times and enhancing client satisfaction and operational efficiency.
+
+### **Growth Marketing Analyst | Meshki Marketing**
+
+*Dec 2019 - Dec 2021*
+
+- Led data integration efforts, halving data cleaning time by implementing efficient analytics practices.
+- Developed dynamic dashboards and sophisticated data models, driving a 15% increase in customer lifetime value through strategic insights.
+
+### **Guest Experience Architect | Cactus Club Cafe**
+
+*Sep 2015 - Dec 2019*
+
+- Delivered outstanding customer service in a high-pressure environment, markedly improving the dining experience with attention to detail and a warm approach.
+- Enhanced guest satisfaction and loyalty, evidenced by a 30% increase in repeat visits, through strong interpersonal skills and creating a welcoming atmosphere.
 
 ---
 
@@ -26,28 +51,11 @@ Bachelor of Commerce, Specialization in Business Technology Management, Concentr
 
 ---
 
-## **Professional Highlights**
-
-### **Growth Marketing Analyst | Meshki Marketing**
-
-*Dec 2019 - Dec 2021*
-
-- Spearheaded the development of a CRM dashboard, enhancing customer insights and contributing to a 15% increase in lifetime value.
-- Led a social media analytics initiative that improved campaign engagement by 10% through strategic data analysis and A/B testing.
-
-### **Bartender/Server | Cactus Club Cafe**
-
-*Sep 2015 - Dec 2019*
-
-- Optimized service delivery, significantly improving operational efficiency and customer satisfaction in a high-volume setting.
-
----
-
 ## **Key Projects**
 
 ### **Sales Strategy Enhancement**
 
-- Conducted an in-depth data analysis to refine sales strategies, demonstrating potential to boost efficiency by 25%.
+- Conducted an in-depth data analysis to refine sales strategies, demonstrating the potential to boost efficiency by 25%.
 
 ### **Yelp Data Analysis Leadership**
 
