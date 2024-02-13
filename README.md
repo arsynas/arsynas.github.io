@@ -1,5 +1,3 @@
-![nice meeting you!](/assets/img/linkedin_pp_memoji.png)
-
 # Bachelor of Commerce Candidate
 
 ### Business Technology Management & Business Analytics
