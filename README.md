@@ -1,4 +1,4 @@
-![nice meeting you!](/assets/img/sticker_memoji.png)
+![nice meeting you!](/assets/img/linkedin_pp_memoji.png)
 
 # Bachelor of Commerce Candidate
 
@@ -6,7 +6,7 @@
 
 ### University of British Columbia Sauder School of Business
 
-"Dedicated to harnessing data for insightful business solutions, I combine rigorous analytical skills with a dynamic approach to problem-solving. My education and experiences have equipped me with a versatile skill set, enabling me to add value in fast-paced and technology-driven environments."
+Dedicated to harnessing data for insightful business solutions, I combine rigorous analytical skills with a dynamic approach to problem-solving. My education and experiences have equipped me with a versatile skill set, enabling me to add value in fast-paced and technology-driven environments.
 
 ---
 
